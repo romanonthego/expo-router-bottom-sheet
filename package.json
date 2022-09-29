@@ -1,0 +1,9 @@
+{
+  "name": "expo-router-bottom-sheet",
+  "version": "0.0.17",
+  "main": "dist/index.js",
+  "repository": "git@github.com:romanonthego/expo-router-bottom-sheet.git",
+  "author": "Roman Dubinin <romanonthego@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
